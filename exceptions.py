@@ -1,0 +1,2 @@
+class ProductPriceException(Exception):
+    pass
